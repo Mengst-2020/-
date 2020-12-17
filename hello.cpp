@@ -8,3 +8,9 @@ int divide(int a, int b)
 {
     return (a/b);
 }
+void task1(int a,int b)
+{
+    int c=0;
+    c=a>b?a:b;
+    return c;
+}
