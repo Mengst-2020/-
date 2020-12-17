@@ -14,3 +14,9 @@ void task1(int a,int b)
     c=a>b?b:a;
     return c;
 }
+void task1(int a,int b)
+{
+    int c=0;
+    c=a>b?a:b;
+    return c;
+}
